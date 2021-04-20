@@ -1,0 +1,10 @@
+goal_name = [1,2,3,4]
+
+goal_name.append("i hate 6th, 7th and 8th grade")
+
+print (goal_name[4])
+
+while 4 == 4 :
+    print (goal_name[4])
+    
+    
